@@ -1,0 +1,6 @@
+1. Clone the Project from the GIT repository ( git clone <url> )
+2. To Run the UI we need to install Node 
+3. Once Step 2 is completed , Import the project in you IDE and run the SprintBootMain class (UrlShortnerApplication.java) and check if server is started
+4. Open command prompt and go the location <HOME>/URL_SHORTENER/urlShortner/src/main/webApp/playui/ run yarn start command .
+5. Load the URL http://localhost:3000/
+
